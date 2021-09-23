@@ -1,6 +1,14 @@
 mapreduce\DemoWordCount1.class
-mapreduce\DemoWordCount2$WordCountMapper.class
+mapreduce\DemoSexSum3$SexMapper.class
 mapreduce\DemoWordCount2$WordCountReduce.class
-mapreduce\DemoWordCount1$WordCountReduce.class
+mapreduce\DemoJoin.class
+mapreduce\DemoWordCount2$WordCountMapper.class
 mapreduce\DemoWordCount2.class
+mapreduce\DemoJoin$JoinReduce.class
+mapreduce\DemoSex4$SexMapper.class
+mapreduce\DemoSex4.class
+mapreduce\DemoSexSum3.class
+mapreduce\DemoSexSum3$SexReduce.class
+mapreduce\DemoJoin$JoinMapper.class
+mapreduce\DemoWordCount1$WordCountReduce.class
 mapreduce\DemoWordCount1$WordCountMapper.class
