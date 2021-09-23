@@ -1,0 +1,6 @@
+mapreduce\DemoWordCount1.class
+mapreduce\DemoWordCount2$WordCountMapper.class
+mapreduce\DemoWordCount2$WordCountReduce.class
+mapreduce\DemoWordCount1$WordCountReduce.class
+mapreduce\DemoWordCount2.class
+mapreduce\DemoWordCount1$WordCountMapper.class
